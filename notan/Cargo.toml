@@ -1,0 +1,12 @@
+[package]
+name = "keyani"
+version = "0.1.0"
+edition = "2021"
+authors = ["xanderjakeq"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+device_query = "1.1.2"
+notan = "0.9.3"
+rand = "0.8.5"
