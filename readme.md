@@ -1,9 +1,9 @@
 # keyani
 
-A simple tool to "animate" in realtime with using the keyboard.
+A simple tool to "animate" in realtime using the keyboard.
 
 The goal is to add a bit of personality on the screen for streamers who only
-type without cam/vioce. Also to learn rust ofc.
+type without cam/voice. Also to learn rust ofc.
 
 ![demo](./etc/keyaniDemo.gif)
 
